@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/claseIV_II/claseIV_II/mlruns/f0d22d31710f472ab6fc2e2c94eadffb/artifacts
+end_time: 1746306208375
+entry_point_name: ''
+experiment_id: '705533991641489100'
+lifecycle_stage: active
+run_id: f0d22d31710f472ab6fc2e2c94eadffb
+run_name: adorable-snail-399
+run_uuid: f0d22d31710f472ab6fc2e2c94eadffb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746306205502
+status: 3
+tags: []
+user_id: runner
